@@ -10,3 +10,4 @@ Each folder is a repository which contains the entire codebase with the defined 
 | S. No. | Low Level Design Model | Link |
 |-|-|-|
 | 1. | *Logging System* | [Link](https://github.com/VishuKalier2003/LLD-Notification-System) |
+| 2. | *Password Strength System* | [Link](https://github.com/VishuKalier2003/LLD-Password-Strength-Validator) |
